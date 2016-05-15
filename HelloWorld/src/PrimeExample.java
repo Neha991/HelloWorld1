@@ -2,6 +2,7 @@ class PrimeExample extends PalindromeExample{
 	
 	public PrimeExample() {
 		// TODO Auto-generated constructor stub
+		// changed this code
 	}
 	
 	PrimeExample(int a){
